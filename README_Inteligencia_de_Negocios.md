@@ -142,7 +142,7 @@ Ambas herramientas pueden utilizarse en proyectos de Inteligencia de Negocios pa
 
 ## Autor
 
-**Nombre:** [Tu nombre]  
+**Nombre:** [Monse Sanchez]  
 **Materia:** Inteligencia de Negocios  
 **Universidad:** Universidad Panamericana  
-**Fecha:** [Fecha de entrega]
+**Fecha:** [21/05/2026]
